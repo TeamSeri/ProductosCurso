@@ -13,5 +13,6 @@ namespace ProductosCurso.Models.Beans
         public decimal dPrecioProducto { get; set; }
         public decimal dDescuentoProducto { get; set; }
         public int iEstadoProducto { get; set; }
+        public string sMensaje { get; set; }
     }
 }
