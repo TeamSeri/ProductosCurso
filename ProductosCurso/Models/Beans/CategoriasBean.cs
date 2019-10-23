@@ -11,5 +11,8 @@ namespace ProductosCurso.Models.Beans
         public string sNombreCategoria { get; set; }
         public string sDescripcionCategoria { get; set; }
         public int iEstadoCategoria { get; set; }
+
+        public string sMensaje { get; set; }
+
     }
 }
